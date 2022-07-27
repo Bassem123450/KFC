@@ -1,0 +1,57 @@
+*
+{
+padding: 0%;
+margin: 0;
+display: block;
+position: relative;
+}
+.mynav{
+    color: red!important; 
+    font-family: 'Aclonica', sans-serif;
+  
+}
+.myclass{
+color: red;
+font-family: 'Aclonica', sans-serif;
+}
+.one{
+    color: red;
+    font-family: 'Aclonica', sans-serif;
+    text-align: center;
+}
+.mynana{
+    background-color: red;
+    color: rgb(255, 255, 255);
+}
+.col-md-3{
+    margin-left: 79px;
+}
+.bb hr{
+    
+    text-align: center;
+    font-size: medium;
+}
+.mydada a{
+    font-size: x-large;
+    color: red;
+}
+h4{
+    text-align: center;
+    font-family: 'Aclonica', sans-serif;
+    font-size: small;
+}
+.two
+  {
+    text-align: center;
+    font-family: 'Edu TAS Beginner', cursive;
+    background-color: rgb(250, 39, 39);
+color: aliceblue;
+  }
+  .three{
+    text-align: left;
+  }
+  .end{
+    text-align: left;
+    font-family: 'Aclonica', sans-serif;
+    font-size: medium;
+  }
